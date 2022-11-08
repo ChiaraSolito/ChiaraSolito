@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChiaraSolito! I'm a student in AI!
-- 👀 I’m interested in Data Science, Artificial Intelligence with a particular attention on biological and medical data
+- 👀 I’m interested in Data Science and Artificial Intelligence with a particular attention for biological and medical data
 - 🌱 I’m currently learning the basics of AI, in the Master Degree in Artificial Intelligence @ UniVR
 - 💞️ I’m looking to collaborate on Artificial Intelligence, specifically Planning or Explainable AI
 - 📫 How to reach me: via email @ chiara.solito@studenti.univr.it
