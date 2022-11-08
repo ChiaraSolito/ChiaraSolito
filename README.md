@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChiaraSolito, I'm a 
+- 👋 Hi, I’m @ChiaraSolito! I'm a student in AI!
 - 👀 I’m interested in Data Science, Artificial Intelligence with a particular attention on biological and medical data
 - 🌱 I’m currently learning the basics of AI, in the Master Degree in Artificial Intelligence @ UniVR
 - 💞️ I’m looking to collaborate on Artificial Intelligence, specifically Planning or Explainable AI
