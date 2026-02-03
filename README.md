@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ChiaraSolito! I'm an MLE at @IntesaSanpaolo!
+- 👋 Hi, I’m @ChiaraSolito! I'm a MLE at @IntesaSanpaolo!
 - 🌱 I graduated the Master's Degree in Artificial Intelligence @ UniVR in 2024
 - 📫 How to reach me: via email @ chiara.solito00@gmail.com
