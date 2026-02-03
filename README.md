@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @ChiaraSolito! I'm a student in AI!
-- 👀 I’m interested in Artificial Intelligence and Data Science with particular attention to biological and medical data
-- 🌱 I’m currently enrolled in the Master's Degree in Artificial Intelligence @ UniVR
-- 🌍 I just returned from Lisbon, where I was working on my master thesis @ULisboa
-- 📫 How to reach me: via email @ chiara.solito@studenti.univr.it
+- 👋 Hi, I’m @ChiaraSolito! I'm an MLE at @IntesaSanpaolo!
+- 🌱 I graduated the Master's Degree in Artificial Intelligence @ UniVR in 2024
+- 📫 How to reach me: via email @ chiara.solito00@gmail.com
